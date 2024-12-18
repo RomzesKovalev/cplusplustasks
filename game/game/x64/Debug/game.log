@@ -1,0 +1,12 @@
+﻿  GameScene.cpp
+C:\C++\game\GameScene.cpp(78,97): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\C++\game\GameScene.cpp(78,97): warning C4244:         with
+C:\C++\game\GameScene.cpp(78,97): warning C4244:         [
+C:\C++\game\GameScene.cpp(78,97): warning C4244:             T=float
+C:\C++\game\GameScene.cpp(78,97): warning C4244:         ]
+C:\C++\game\GameScene.cpp(78,79): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\C++\game\GameScene.cpp(78,79): warning C4244:         with
+C:\C++\game\GameScene.cpp(78,79): warning C4244:         [
+C:\C++\game\GameScene.cpp(78,79): warning C4244:             T=float
+C:\C++\game\GameScene.cpp(78,79): warning C4244:         ]
+  game.vcxproj -> C:\C++\game\x64\Debug\game.exe

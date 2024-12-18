@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\C++\game\GameView.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "main.cpp")
+  
+  GameScene.cpp
+C:\C++\game\TmxLevel.h(4,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "GameScene.cpp")
+  
+  GameView.cpp
+C:\C++\game\GameView.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "GameView.cpp")
+  
+  TmxLevel.cpp
+C:\C++\game\TmxLevel.h(4,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "TmxLevel.cpp")
+  
