@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTestTask1.cpp
+C:\C++\math\math.cpp(7,11): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "/UnitTestTask1.cpp")
+  
+C:\C++\UnitTestTask1\UnitTestTask1.cpp(17,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/UnitTestTask1.cpp")
+  
+     Создается библиотека C:\C++\UnitTestTask1\Debug\UnitTestTask1.lib и объект C:\C++\UnitTestTask1\Debug\UnitTestTask1.exp
+  UnitTestTask1.vcxproj -> C:\C++\UnitTestTask1\Debug\UnitTestTask1.dll

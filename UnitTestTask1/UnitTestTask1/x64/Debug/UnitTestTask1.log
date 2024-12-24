@@ -1,0 +1,8 @@
+﻿  UnitTestTask1.cpp
+C:\C++\math\math.cpp(14,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/UnitTestTask1.cpp")
+  
+C:\C++\UnitTestTask1\UnitTestTask1.cpp(16,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/UnitTestTask1.cpp")
+  
+  UnitTestTask1.vcxproj -> C:\C++\UnitTestTask1\x64\Debug\UnitTestTask1.dll
